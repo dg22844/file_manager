@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/file_manager/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1835" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/file_manager/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/file_manager/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/file_manager/app/src/main/res/menu/nav_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
